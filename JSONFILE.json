@@ -1,0 +1,16 @@
+{
+  "name": "Audit Sanitair App",
+  "short_name": "Audit Sanitair",
+  "start_url": "./INTERFACE",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#2563eb",
+  "description": "Aplikasi pencatatan audit debit air sanitair untuk offline dan online.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
